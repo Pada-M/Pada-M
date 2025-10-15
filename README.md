@@ -1,8 +1,12 @@
 
 ## 👋 Hey, I'm Pada
 
-I'm a **Computer Science graduate** who's been coding for over **5 years**, exploring everything from web development to AI and system design.  
-I love creating software that connects ideas to real-world impact — whether it’s building seamless user experiences or crafting solid backend systems.
+I'm a **Computer Science graduate** who's been coding for over **5 years** — and honestly, I’ve never stopped learning since I wrote my first line of code.  
+I enjoy working with **modern tech stacks** because I’ve never been a fan of doing things “the old way.”  
+I love exploring fresh tools, frameworks, and ideas that make development faster, cleaner, and more fun.
+
+I build projects that connect ideas to real-world impact — whether it’s designing smooth frontend experiences, creating robust backend systems, or experimenting with AI-driven features.
+
 
 ---
 
