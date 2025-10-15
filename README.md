@@ -4,8 +4,6 @@
 I'm a **Computer Science graduate** who's been coding for over **5 years**, exploring everything from web development to AI and system design.  
 I love creating software that connects ideas to real-world impact — whether it’s building seamless user experiences or crafting solid backend systems.
 
-I don’t like restricting myself to one path — I’m always learning, experimenting, and expanding across different areas of development.
-
 ---
 
 ### ⚙️ What I’ve Been Up To
